@@ -1,0 +1,2 @@
+Visualizes Earthquake Data: Creates a bar chart of earthquake magnitudes using Pygal and saves it as an SVG file.
+Visualizes Fire Data: Reads fire location data from a CSV file and creates a scatter plot using Matplotlib to show fire locations on a map.
